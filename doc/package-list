@@ -1,0 +1,7 @@
+br.fudatec.lpi.middleware
+br.fundatec.lpi.app
+br.fundatec.lpi.database.conectionfactory
+br.fundatec.lpi.database.dao
+br.fundatec.lpi.database.javabean
+br.fundatec.lpi.devices
+br.fundatec.lpi.interfaces
