@@ -3,11 +3,11 @@ package br.fundatec.lpi.app;
 import java.sql.Connection;
 import java.sql.SQLException;
 
-import br.fudatec.lpi.middleware.MiddleWare;
 import br.fundatec.lpi.database.conectionfactory.ConnectionFactory;
 import br.fundatec.lpi.database.dao.SinkDao;
 import br.fundatec.lpi.database.dao.UserDao;
 import br.fundatec.lpi.database.dao.WaterThermometerDao;
+import br.fundatec.lpi.middleware.MiddleWare;
 
 /**
  * Classe de app, usada para testar o middleware

@@ -1,4 +1,4 @@
-package br.fudatec.lpi.middleware;
+package br.fundatec.lpi.middleware;
 
 import java.sql.Connection;
 import java.sql.SQLException;
